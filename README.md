@@ -1,4 +1,4 @@
-## Práctica final Metodología de la programación.
+## Práctica final Metodología de la programación. 2016-2017.
 
 El proyecto trata de implementar el famoso juego de mesa **Reversi/Othello**. Nos encontramos 2 versiones del juego:
 	
